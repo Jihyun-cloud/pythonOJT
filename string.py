@@ -92,8 +92,9 @@ state.find('i',5)
 friends=['alice', 'bob', 'cindy']
 dash='-'
 dash.join(friends)
-
+'''
 lists='alice bob cindy david'
 lists.split()
 date='2016/12/25'
 date.split('/')
+'''
